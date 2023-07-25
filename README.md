@@ -20,4 +20,6 @@ Approach for this Project:The project aimed to predict whether an avocado is con
 ![carbon (11)](https://github.com/RAJharsh02/Avocados-classification/assets/118257196/aa719f26-aaa6-404a-9821-6c33f1f90e5b)
 ![carbon (12)](https://github.com/RAJharsh02/Avocados-classification/assets/118257196/05bf34fc-0749-470f-ab85-48298aee2d51)
 
+
 ## Accuracy Score of different Model:
+![Comparison graph](https://github.com/RAJharsh02/Avocados-classification/assets/118257196/60225a7c-e5eb-4904-8ec4-db7f079e2d60)
